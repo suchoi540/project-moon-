@@ -1,0 +1,6 @@
+{
+  "name": "WebAtlas - 유용한 사이트 탐색기",
+  "description": "키워드나 자연어 입력으로 작업과 목적에 딱 맞는 유용한 웹사이트를 즉시 찾아주는 큐레이션 및 실시간 웹 탐색 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
